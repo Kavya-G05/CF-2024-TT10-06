@@ -1,4 +1,6 @@
+`include "timescale.vh"
 `timescale 1ns / 1ps
+
 module clock_div(
     input clk,        // Input clock (assumed 100 MHz for this example)
     input reset,         // Synchronous reset
