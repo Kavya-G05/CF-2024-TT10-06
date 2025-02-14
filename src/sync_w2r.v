@@ -1,4 +1,3 @@
-`include "timescale.vh"
 `timescale 1ns / 1ps
 
 module sync_w2r #(parameter DEPTH = 8) (
