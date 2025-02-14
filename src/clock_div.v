@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-module clock_divider(
+module clock_div(
     input clk_in,        // Input clock (assumed 100 MHz for this example)
     input reset,         // Synchronous reset
     output reg w_clk,   // 50 MHz write clock output
