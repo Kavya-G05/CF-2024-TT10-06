@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module testbench();
+module testbench() ;
 
     parameter WIDTH = 4, DEPTH = 8;
 
