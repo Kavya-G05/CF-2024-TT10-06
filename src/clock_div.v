@@ -1,8 +1,7 @@
-
 `timescale 1ns / 1ps
 
 module clock_div(
-    input clk,        // Input clock (assumed 100 MHz for this example)
+    input clk ,        // Input clock (assumed 100 MHz for this example)
     input reset,         // Synchronous reset
     output reg w_clk,   // 50 MHz write clock output
     output reg r_clk    // 30 MHz read clock output
