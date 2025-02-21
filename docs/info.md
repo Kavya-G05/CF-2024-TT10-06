@@ -33,6 +33,4 @@ Adjust Clock Domains: Modify write and read clock frequencies to test synchroniz
 Monitor Full/Empty Flags: Ensure proper flow control to prevent overflow or underflow.
 Pause/Resume Reads/Writes: Dynamically enable or disable operations based on system requirements.
 
-## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
