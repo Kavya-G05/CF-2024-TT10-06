@@ -71,11 +71,11 @@ We express our deepest gratitude to our DECE Alumni for:
 
 We sincerely thank:
 
--Dr. M.A.Bhagyaveni - Head of the Department
+- Dr. M.A.Bhagyaveni - Head of the Department
    - For the guidance and encouragement throughout the project
    - For providing the necessary infrastructure and resources
-   -For supporting student initiatives in semiconductor design
+   - For supporting student initiatives in semiconductor design
 - Faculty Members of the VLSI Division
-   -For their technical guidance and support
+   - For their technical guidance and support
   
 This initiative stands as a testament to the collaborative spirit between our alumni, faculty, and students in advancing VLSI education and research.
