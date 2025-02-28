@@ -50,7 +50,7 @@ This project builds upon the following research works:
     
 ## CEG Fabless Initiative Credits
 
-### Platform Credits
+## Platform Credits
 
 ### TinyTapeout
 We thank TinyTapeout for providing the educational platform, design framework, and support that made this project possible.
@@ -71,10 +71,11 @@ We express our deepest gratitude to our DECE Alumni for:
 
 We sincerely thank:
 
-- Dr. M.A.Bhagyaveni - Head of the Department
-  -For the guidance and encouragement throughout the project
-  - For providing the necessary infrastructure and resources
-  -For supporting student initiatives in semiconductor design
+-Dr. M.A.Bhagyaveni - Head of the Department
+   - For the guidance and encouragement throughout the project
+   - For providing the necessary infrastructure and resources
+   -For supporting student initiatives in semiconductor design
 - Faculty Members of the VLSI Division
-  -For their technical guidance and support
+   -For their technical guidance and support
+  
 This initiative stands as a testament to the collaborative spirit between our alumni, faculty, and students in advancing VLSI education and research.
